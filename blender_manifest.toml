@@ -1,0 +1,23 @@
+schema_version = "1.0.0"
+
+id = "browser_scroll_resize"
+version = "1.0.0"
+name = "Browser Scroll Resize"
+tagline = "Resize File Size on Browser with Mouse Wheel"
+maintainer = "Barrunterio <barrunterio@pm.me>"
+type = "add-on"
+
+# Allows the user to change size of thumbnails in the browser adding with wheel shortcuts = ["files"]
+
+website = "https://github.com/importtby/BSR_Browser_Scroll_Resizer"
+
+# https://github.com/importtby/BSR_Browser_Scroll_Resizer
+tags = ["User Interface"]
+
+blender_version_min = "4.2.0"
+# blender_version_max = "5.1.0"
+
+# License conforming to https://spdx.org/licenses/ (use "SPDX: prefix)
+# https://docs.blender.org/manual/en/dev/extensions/licenses.html
+license = ["SPDX:GPL-2.0-or-later"]
+# copyright = []
