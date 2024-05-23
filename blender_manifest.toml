@@ -9,7 +9,7 @@ type = "add-on"
 
 # Allows the user to change size of thumbnails in the browser adding with wheel shortcuts = ["files"]
 
-website = "https://github.com/importtby/BSR_Browser_Scroll_Resizer"
+website = "https://github.com/Barrunterio/Browser-Scroll-Resizer/issues"
 
 # https://github.com/importtby/BSR_Browser_Scroll_Resizer
 tags = ["User Interface"]
